@@ -1,0 +1,18 @@
+C:\Users\bjnik\source\repos\C_PresentacionWeb\C_Entidades\bin\Debug\C_Entidades.dll
+C:\Users\bjnik\source\repos\C_PresentacionWeb\C_Entidades\bin\Debug\C_Entidades.pdb
+C:\Users\bjnik\source\repos\C_PresentacionWeb\C_Entidades\obj\Debug\C_Entidades.csproj.AssemblyReference.cache
+C:\Users\bjnik\source\repos\C_PresentacionWeb\C_Entidades\obj\Debug\C_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\bjnik\source\repos\C_PresentacionWeb\C_Entidades\obj\Debug\C_Entidades.dll
+C:\Users\bjnik\source\repos\C_PresentacionWeb\C_Entidades\obj\Debug\C_Entidades.pdb
+C:\Users\3G Soluciones\Desktop\Sol Zaga\SolZaga\C_Entidades\bin\Debug\C_Entidades.dll
+C:\Users\3G Soluciones\Desktop\Sol Zaga\SolZaga\C_Entidades\bin\Debug\C_Entidades.pdb
+C:\Users\3G Soluciones\Desktop\Sol Zaga\SolZaga\C_Entidades\obj\Debug\C_Entidades.csprojAssemblyReference.cache
+C:\Users\3G Soluciones\Desktop\Sol Zaga\SolZaga\C_Entidades\obj\Debug\C_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\3G Soluciones\Desktop\Sol Zaga\SolZaga\C_Entidades\obj\Debug\C_Entidades.dll
+C:\Users\3G Soluciones\Desktop\Sol Zaga\SolZaga\C_Entidades\obj\Debug\C_Entidades.pdb
+C:\Users\bjnik\Desktop\Mishella\Sol Zaga\Sol Zaga\SolZaga\C_Entidades\bin\Debug\C_Entidades.dll
+C:\Users\bjnik\Desktop\Mishella\Sol Zaga\Sol Zaga\SolZaga\C_Entidades\bin\Debug\C_Entidades.pdb
+C:\Users\bjnik\Desktop\Mishella\Sol Zaga\Sol Zaga\SolZaga\C_Entidades\obj\Debug\C_Entidades.csproj.AssemblyReference.cache
+C:\Users\bjnik\Desktop\Mishella\Sol Zaga\Sol Zaga\SolZaga\C_Entidades\obj\Debug\C_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\bjnik\Desktop\Mishella\Sol Zaga\Sol Zaga\SolZaga\C_Entidades\obj\Debug\C_Entidades.dll
+C:\Users\bjnik\Desktop\Mishella\Sol Zaga\Sol Zaga\SolZaga\C_Entidades\obj\Debug\C_Entidades.pdb

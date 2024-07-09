@@ -1,0 +1,102 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Iniciar Sesión</title>
+    @Styles.Render("~/Content/css")
+<style>
+        html, body {
+            height: 100%;
+            width: 100%;
+        }
+
+        .cuerpo {
+            /* The image used */
+            background-image: url("@Url.Content("~/Imagenes/RRR.jpg")");
+            /* Full height */
+            height: 100%;
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+            overflow: hidden;
+        }
+
+            .cuerpo::before {
+                content: '';
+                display: block;
+                background: inherit;
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                top: 0;
+                filter: blur(15px);
+                transform: scale(1.2,1.4);
+            }
+
+        .vdivide [class*='col-6']:not(:last-child):after {
+            background: #e0e0e0;
+            width: 1px;
+            content: "";
+            display: block;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            min-height: 70px;
+        }
+
+</style>
+</head>
+
+<body class="cuerpo">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="d-flex align-items-center min-vh-100">
+                    <div class="w-100 d-block my-5">
+                        <div class="row justify-content-center">
+                            <div class="col-md-8 col-lg-5">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <div class="text-center mb-4 mt-3">
+                                            <a href="#">
+                                                <span><img src="@Url.Content("~/Imagenes/tienda.png")" alt="" height="100"></span>
+                                            </a>
+                                        </div>
+                                        <form action="@Url.Content("~/Login/Index")" method="post" class="p-2">
+                                            <div class="form-group">
+                                                <label for="emailaddress">Correo</label>
+                                                <input class="form-control" type="email" name="correo" required="" autocomplete="off" value="mishella@gmail.com">
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="password">Contraseña</label>
+                                                <input class="form-control" type="password" required="" name="clave" autocomplete="off" value="admin@gmail.com">
+                                            </div>
+
+                                            <div class="mb-3 text-center">
+                                                <button class="btn btn-primary btn-block" type="submit">Ingresar</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                               
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>
